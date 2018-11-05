@@ -1,4 +1,4 @@
-# OASIS Loss Modelling Platform
+# OASIS LMF
 
 ## Install
 Reference:
