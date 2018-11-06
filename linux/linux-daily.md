@@ -8,8 +8,8 @@
 | Services and status	| service --status-all
 | Sessions and processes	| top 
 | Find processes by name	| top -p \`pgrep "java"\`
-| Shutdown	| shutdown –h now
-| restart	| shutdown –r now<br>sudo reboot
+| Shutdown	| shutdown -h now
+| restart	| shutdown -r now<br>sudo reboot
 | Update all packages |	apt-get update
 | Upgrade all packages	| apt-get upgrade   
 | Linux version	| uname -a
@@ -27,8 +27,8 @@
 | Disk usage	| df
 | Text editor	| nano abc.txt
 | Delete file |	rm abc.txt
-| Delete folder and content	| rm –rf folder1/
-| Find file by mask	| find . –name "libpi4j.so"
+| Delete folder and content	| rm -rf folder1/
+| Find file by mask	| find . -name "libpi4j.so"
 | Find text in file	 | grep 'ERROR' app.log
 	
 ## Scripts
