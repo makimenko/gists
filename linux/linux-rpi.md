@@ -4,24 +4,10 @@
 | Description | Command
 --------------| ---------
 | Login	| User = pi |
-| Go to sysadmin/root mode	| sudo su 
-| Change password	| passwd  
 | Main configuration and update	| raspi-config 
-| Get IP adderess	| ifconfig
-| Shutdown	| shutdown -h now
-| restart	| sudo reboot
-| Network restart	| /etc/init.d/networking restart
-| Manual/documentation for “tree” package	| man tree 
-| Update all packages	| apt-get update
-| Upgrade all packages	| apt-get upgrade 
 | Scripts / BAT files	| bash go.sh
 | Text editor	| nano abc.txt
-| Delete file 	| rm abc.txt
-| Delete folder and content	| rm -rf folder1/
-| Find file by mask     | find . -name "libpi4j.so"
-| Linux version	| uname -a
 | Services and status	| service --status-all
-| Download | wget http://server.lv/filename.zip 
 
 
 ## Update
