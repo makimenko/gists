@@ -7,7 +7,7 @@
 | Change password	| passwd
 | Services and status	| service --status-all
 | Sessions and processes	| top 
-| Find processes by name	| top -p \`pgrep "java"\`
+| Find processes by name	| top -c -p $(pgrep -d',' -f name_to_find)
 | Shutdown	| shutdown -h now
 | restart	| shutdown -r now<br>sudo reboot
 | Update all packages |	apt-get update
