@@ -12,7 +12,7 @@
 | restart	| shutdown –r now<br>sudo reboot
 | Update all packages |	apt-get update
 | Upgrade all packages	| apt-get upgrade   
-| Linux version	| uname –a
+| Linux version	| uname -a
 
 ## Network
 | Description | Command
