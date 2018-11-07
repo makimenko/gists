@@ -5,9 +5,9 @@ For work:
 - [Linux](linux/linux.md) - basic commands, ubuntu/redhat, docker, kubernetes, oasis lmf, ...
 - [Java](java/java.md) - language, frameworks (spring, hibernate, jetty, ...), mvn, ...
 - Clouds
--- Azure
--- AWS
--- Google
+  - Azure
+  - AWS
+  - Google
 - Angular - platform to build MVC applications for web and desktop
 - Oracle - Oracle database monitoring, administration, DDL/DML templates
 
