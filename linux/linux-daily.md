@@ -14,6 +14,10 @@
 | Upgrade all packages	| apt-get upgrade   
 | Linux version	| uname -a
 | Download | wget http://server/filename.zip 
+| |
+| cp | Copy file
+| mv | Move file 
+| rm | Delete file
 
 ## Network
 | Description | Command
